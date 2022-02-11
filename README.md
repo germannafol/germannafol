@@ -1,4 +1,4 @@
-<img align="left" alt="Germanna-pic" height="200" style="border-radius:50px;" src="https://media.discordapp.net/attachments/936192176000495638/941839328819171401/download20220205203129.png?width=409&height=409"> 
+<img align="left" alt="Germanna-pic" width= "20%" height="10%" style="border-radius:50px;" src="https://media.discordapp.net/attachments/936192176000495638/941839328819171401/download20220205203129.png?width=409&height=409"> 
 
 ### Olá! Eu sou a Germanna Oliveira
 - 💊 Farmacêutica
