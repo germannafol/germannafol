@@ -6,6 +6,7 @@
 - ✍🏻 Aprendendo com Alura e Dio
 - 💬 Pergunte-me qual livro estou lendo...
 - ⚡ Fun fact: Odeio Abacate...
+
 ##
 
 <div align="center">
