@@ -12,7 +12,7 @@
 <div align="center">
   <a href="https://github.com/germannafol">
   <img width= "56%" height="30%" src="https://github-readme-stats.vercel.app/api?username=germannafol&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=stars,prs&locale=pt-br"/>
-  <img width= "42%" height="50%" src="#"/>
+  <img width= "42%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germannafol&layout=compact&langs_count=7&theme=radical&locale=pt-br"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Germanna-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
