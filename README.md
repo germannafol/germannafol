@@ -2,7 +2,7 @@
 
 ### Olá! Eu sou a Germanna Oliveira
 - 💊 Farmacêutica
-- 👩🏻‍💻 Trabalho como Desenvolvedora Full Stack
+- 👩🏻‍💻 Trabalho como Desenvolvedora Full Stack Grupo Boticário
 - ✍🏻 Aprendendo com Alura e Dio
 - 💬 Pergunte-me qual livro estou lendo....
 - ⚡ Fun fact: Odeio Abacate....
