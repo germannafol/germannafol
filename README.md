@@ -1,16 +1,31 @@
-
 <img src="https://raw.githubusercontent.com/090Raphael/imagens/86227742a4942ef2d095bfb6e68ad9767f208ef9/imagens/ilustra%C3%A7%C3%A3o%20de%20computador%202.png" alt="ilustração de um computador" min-width="400rem" max-width="400rem" width="400rem" align="right">
 
-### Olá! Eu sou a Germanna Oliveira
+###  Germanna Oliveira
+
 - 💊 Farmacêutica
 - 👩🏻‍💻 Dev back end Grupo Boticário
 - ✍🏻 Kotlin, Java, Groovy e Marchine Learning
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/germannafol/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
+  </a>
+</div>
 
 ### Posição atual
 - 💻 Atuando quase 4 anos como dev backend do Grupo Boticário
 - 📚 Estudando mais sobre Dados e Marchine Learning
 
-### Minha rotina (Por ordem decresente de uso):
+## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Comet.png" alt="Books" width="35" height="35" /> Formações
+
+- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/School.png" width="25"> **Universidade**:
+  - **Farmacêutica Pela Universidade Federal do Ceará**
+    - January 28, 2022 (Present)
+- <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Computer%20Mouse.png" width="25"> **Formação em Computação**:
+  - **Formação Alura e Dio**
+    - Maio 2021 – Jul 2025.
+
+## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Bar%20Chart.png" alt="Books" width="35" height="35" /> Minha rotina (Por ordem decresente de uso)
 
 <table align="center">
     <tr>
@@ -173,8 +188,8 @@
     </td> -->
   </tr>
 </table>
-<h3> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="35" height="35" />Minha bagagem de conheciemnto em T (Só uso quando necessário): </h3>
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="35" height="35" /> Minha bagagem de conheciemnto em T (Só uso quando necessário)
 <table align="center">
     </tr>
        <td align="center" width="96">
@@ -221,7 +236,7 @@
     </td>
 </table>
 
-### Estudando:
+## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Rocket.png" alt="Rocket" width="35" height="35" /> Estudando
 <table align="center">
     </tr>
       <td align="center" width="96">
@@ -241,13 +256,16 @@
     </td>
 </table>
 
-<div align="center">
+<!--       <div align="center">
+  
   <a href="https://github.com/germannafol">
   <img width= "42%" height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=germannafol&layout=compact&langs_count=7&theme=radical&locale=pt-br"/>
 </div>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/germannafol/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
-  </a>
+-->
+## <img src="https://github.com/Tarikul-Islam-Anik/tarikul-islam-anik/blob/main/assets/images/Robot.png" alt="Rocket" width="35" height="35" /> Evolução de entregas na empresa
+<div align="center">
+  <img width="764" height="207" alt="image" src="https://github.com/user-attachments/assets/3f2cd75b-09c5-4c7e-8348-530af8695dfc" />
+  <img width="764" height="208" alt="image" src="https://github.com/user-attachments/assets/ab41f6d0-34a4-45a8-884f-def92e6a3fe3" />
+  <img width="784" height="210" alt="image" src="https://github.com/user-attachments/assets/ca6ff3b0-5285-45fb-b8a5-d73c6bb00dab" />
+  <img width="784" height="210" alt="image" src="https://github.com/user-attachments/assets/64043ec6-fa56-4efd-bcea-bb74b5e404bd" />
 </div>
